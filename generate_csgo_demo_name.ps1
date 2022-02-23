@@ -17,7 +17,7 @@
 # 2) Schedule its execution with Windows' Task Scheduler often (ie. every 5 minutes) #
 # 3) Edit your CSGO config.cfg to add a bind for executing the record.cfg file.      #
 #    Example, update your TAB bind to :                                              #
-#    bind "TAB" "+showscores; exec record.cfg"                                       #
+#    bind TAB "exec record.cfg; +showscores"                                      #
 #                                                                                    #
 ######################################################################################
 
